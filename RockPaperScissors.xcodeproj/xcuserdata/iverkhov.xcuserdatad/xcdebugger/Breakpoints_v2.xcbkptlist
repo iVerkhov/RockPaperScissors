@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92D32CAA-F1C3-4631-86D5-1D48411AE01C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E96DBCC-2DB5-450F-8139-6D4813A98831"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissors/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "checkAnswer(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E96DBCC-2DB5-450F-8139-6D4813A98831 - 6f82060827f6a11b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissors.ContentView.checkAnswer(Swift.String) -&gt; ()"
+                  moduleName = "RockPaperScissors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iverkhov/Desktop/My%20Projects/100%20Days%20of%20SwiftUI/RockPaperScissors/RockPaperScissors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0E96DBCC-2DB5-450F-8139-6D4813A98831 - 6f82060827f6a11b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissors.ContentView.checkAnswer(Swift.String) -&gt; ()"
+                  moduleName = "RockPaperScissors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iverkhov/Desktop/My%20Projects/100%20Days%20of%20SwiftUI/RockPaperScissors/RockPaperScissors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "0E96DBCC-2DB5-450F-8139-6D4813A98831 - 6f82060827f6a0d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissors.ContentView.checkAnswer(Swift.String) -&gt; ()"
+                  moduleName = "RockPaperScissors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iverkhov/Desktop/My%20Projects/100%20Days%20of%20SwiftUI/RockPaperScissors/RockPaperScissors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
